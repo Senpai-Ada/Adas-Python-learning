@@ -17,3 +17,31 @@ I created a basic report card printer
 
 ### Tomorrow's focus
 I want to learn strings properly
+
+## November 12, 2026
+
+### What I learned
+Today, I explored Python strings, data types and basic operations.
+
+Topics covered:
+- `in` – checking whether an element or character exists in a sequence.
+- `isinstance()` – checking whether a value belongs to a particular data type.
+- `\n` – inserting a new line in a string.
+- `len()` – getting the length of a string or collection.
+- `index()` – finding the position of an element in a sequence.
+- Negative indexing – accessing elements from the end of a sequence.
+- Mutable vs. immutable values – understanding which data types can or cannot be modified after creation.
+- String concatenation – combining strings using `+`.
+- String interpolation – inserting variables or expressions into strings.
+
+### What I practised
+- Checking string membership.
+- Working with string indexes.
+- Exploring string manipulation.
+- Combining strings and variables.
+
+### Key takeaway
+I learned how Python handles strings, how to access individual characters and how to work with different types of values.
+
+### Next learning goal
+Continue practising Python string methods and explore conditional statements.
