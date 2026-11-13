@@ -44,4 +44,23 @@ Topics covered:
 I learned how Python handles strings, how to access individual characters and how to work with different types of values.
 
 ### Next learning goal
-Continue practising Python string methods and explore conditional statements.
+Continue practising Python string methods and explore numbers and mathematical operations.
+
+## November 13, 2026
+
+### What I learned
+- String slicing in Python: extracting specific portions of a string using indexes.
+- `.title()` method: converting the first letter of each word to uppercase.
+- `.strip()` method: removing leading and trailing whitespace from a string.
+
+### What I practised
+- Building an employee profile generator using Python string slicing.
+- Working with string manipulation and formatting.
+
+### Challenges
+String slicing is still a bit challenging, especially when applying it to the employee profile generator. I need more hands-on practice to understand it better and become more comfortable using it.
+
+### Next learning goal
+- Practise string slicing with different examples.
+- Complete the employee profile generator.
+- Explore more Python string methods.
